@@ -34,6 +34,13 @@ house_of_brazil/
 
 `data/` 폴더에는 Olist 공개 이커머스 데이터가 들어갑니다.
 
+데이터 출처:
+
+- Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- Provider: Olist
+- License: CC BY-NC-SA 4.0
+- Use: 비상업적 분석 및 포트폴리오 목적
+
 - `olist_orders_dataset.csv`
 - `olist_order_items_dataset.csv`
 - `olist_order_payments_dataset.csv`
